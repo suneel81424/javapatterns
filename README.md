@@ -1,0 +1,2 @@
+# javapatterns
+java samplecodes
